@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 hola mon!
 Afegir una segona linia
 Afegir tercera linia
 afegim la quarta linia
+=======
+hola m¢n!
+Afegir una segona linia
+>>>>>>> parent of e81c9b4... tercera linia afegida
